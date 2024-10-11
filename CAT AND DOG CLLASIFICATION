@@ -1,0 +1,44 @@
+Here’s a README template for a GitHub repository focused on a cat and dog classification project using Teachable Machine:
+
+---
+
+# Cat vs. Dog Classification with Teachable Machine
+
+This repository demonstrates how to create a simple image classifier that distinguishes between cats and dogs using Google’s Teachable Machine. The project utilizes a user-friendly interface to train a machine learning model without extensive coding.
+
+## Overview
+
+Teachable Machine allows users to easily train models for image classification. This project captures the process of training a model to classify images of cats and dogs, along with a simple web application to test the model.
+
+## Features
+
+- **Image Classification**: Classifies images as either a cat or a dog.
+- **Interactive Training**: Train the model using your own images.
+- **Web Application**: A demo web app that allows users to upload images and receive classification results in real-time.
+
+## Getting Started
+
+### Prerequisites
+
+- A web browser (preferably Chrome)
+- Basic understanding of image classification concepts
+
+### Steps to Create Your Classifier
+
+1. **Access Teachable Machine**:
+   - Go to [Teachable Machine](https://teachablemachine.withgoogle.com/).
+
+2. **Create a New Project**:
+   - Select "Get Started" and choose the "Image Project" option.
+
+3. **Upload Images**:
+   - Create two classes: one for cats and one for dogs.
+   - Upload multiple images of each category to train the model effectively.
+
+4. **Train Your Model**:
+   - After uploading the images, click on "Train Model."
+   - Wait for the training process to complete.
+
+5. **Export Your Model**:
+   - Once training is complete, export the model by selecting "Export Model."
+   - Choose the option to download the model or integrate it into a web app
